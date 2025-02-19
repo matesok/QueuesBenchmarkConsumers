@@ -1,4 +1,4 @@
-package pl.sokolowski.activemq.model;
+package pl.sokolowski.kafkaconsumer.model;
 
 import jakarta.persistence.*;
 import lombok.*;
